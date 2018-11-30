@@ -18,4 +18,5 @@ Links that show direction for running code as well examples for each:
             IntervalsBreaks.java
             LongestIncreasingSubseqCount.java
             
-            
+*NOTE*  Not every class will run with the higher loads (aka the later samples) due to 
+        not hitting the run time or some potential errors that were unseen.
